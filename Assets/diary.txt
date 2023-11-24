@@ -1,0 +1,11 @@
+__/11/23 - Session
+I cameame in, watched the videos, couldn't find any new useful information. toye around in Unity but i'm already familiar with all the content so I tried to work on other projects only for it to not work, Both CLion and Pycharm were throwing a fit so I gave up and went home early.
+
+24/11/23 - Session
+Actually started some work. I created the Unity project and started working, creating a new Quad for the floor. I decided to go for a swimming-pool kind of environment and so I download some content from Textures.com (formerly CGTextures.com). I also created this diary and references txt file to make things easier for the future and will take at least one screenshot per session.
+
+Screenshots will be saved in format "ddmmyy-(screenshot number)"... For an example date of December 4th I will have: 041223-1.
+
+Diary entries will be written as "dd/mm/yy - (location)" with location either being "Home" or "Session" which are self-explanatory.
+
+To save time, any assets downloaded will simply have their date
