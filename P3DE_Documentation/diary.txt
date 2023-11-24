@@ -1,0 +1,19 @@
+########################
+## __/11/23 - Session ##
+########################
+I attended the session, watched the videos provided and opened Unity. As I'm already familiar with all the content being taught that session I tried to work on other projects. This did not work as CLion and Pycharm were not correctly functioning, they were ignoring critical engine files such as pyasge. After all this I decided to give up go home early.
+
+########################
+## 24/11/23 - Session ##
+########################
+Today I actually started some work! I created the Unity project and started a new environment, creating a new Quad for the floor. I decided to go for a swimming-pool kind of environment and download some content from Textures.com (formerly CGTextures.com). I also created this diary and references txt file to make things easier for the future and will take at least one screenshot per session.
+
+Screenshots will be saved in format "ddmmyy-(screenshot number)". For an example date of December 4th it would be "041223-1".
+To save time, any assets downloaded will simply have their file name, date, and download location (URL) in the references.txt file, which is located in the same location as this diary.txt file.
+Diary entries and references will be written as "dd/mm/yy - (location)" with "location" either being "Home" or "Session" which are both self-explanatory.
+
+I also skimmed through videos provided this session, much like last session. This time I actually was able to learn something new with the videos - mainly reflective properties through reflection probes. That was nice to learn!
+
+Inquired about next steps with Beth and where to go with the little information revealed in the brief. This appears to be a learning time for Unity which I'm already familiar with and so I'm wishing to get a head start. I also inquired about Probuilder and from what information I recieved, probuilder is probably not allowed. I did get good advicee top start working on environmental code and player code, however, as the project is based around interactivity.
+
+I went home half an hour early as I had little to do in the provided time frame left and had work later.
