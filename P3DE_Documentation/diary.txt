@@ -17,3 +17,17 @@ I also skimmed through videos provided this session, much like last session. Thi
 Inquired about next steps with Beth and where to go with the little information revealed in the brief. This appears to be a learning time for Unity which I'm already familiar with and so I'm wishing to get a head start. I also inquired about Probuilder and from what information I recieved, probuilder is probably not allowed. I did get good advicee top start working on environmental code and player code, however, as the project is based around interactivity.
 
 I went home half an hour early as I had little to do in the provided time frame left and had work later.
+
+
+########################
+## 01/12/23 - Session ##
+########################
+I opened Unity and then just watched the videos. I tried to recreate the videos but faced a fatal roadblock when attempting to modify the assets. Following the tutorial would just crash my entire project, every time, without fail. Tom had a look at the project and tried
+A. Not using GitHub while editing
+and
+B. Saving changes without assets being in the scene
+which for some reason fixed it, and we're not sure why or which one exactly was the problem (though I suspect it would be B. that's the problem as GitHub should only theoretically be reading files, not writing them.
+I then followed the rest of the tutorial and got the third person character imported into the scene.
+
+I imported a Joe from Mixamo as my new character, and applied them to the newly imported PlayerArmature from the free Unity Third Person Controller package.
+I also set up a basic scene and added a ball with bouncy PhysicsMaterial and some ramps to test the physics and called it a day a hour and 15 minutes early.
