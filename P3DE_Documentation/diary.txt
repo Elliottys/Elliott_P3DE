@@ -31,3 +31,8 @@ I then followed the rest of the tutorial and got the third person character impo
 
 I imported a Joe from Mixamo as my new character, and applied them to the newly imported PlayerArmature from the free Unity Third Person Controller package.
 I also set up a basic scene and added a ball with bouncy PhysicsMaterial and some ramps to test the physics and called it a day a hour and 15 minutes early.
+
+########################
+## 08/12/23 - Session ##
+########################
+After watching the videos and learning about how to use C# (which I already know a decent amount of) and needing to make an entirely new project to do so, I decided to catch up on other assignments that I'm behind on.
