@@ -1,38 +1,32 @@
-########################
-## __/11/23 - Session ##
-########################
-I attended the session, watched the videos provided and opened Unity. As I'm already familiar with all the content being taught that session I tried to work on other projects. This did not work as CLion and Pycharm were not correctly functioning, they were ignoring critical engine files such as pyasge. After all this I decided to give up go home early.
+The diary will track what I do whenever I work on this project.
 
-########################
-## 24/11/23 - Session ##
-########################
-Today I actually started some work! I created the Unity project and started a new environment, creating a new Quad for the floor. I decided to go for a swimming-pool kind of environment and download some content from Textures.com (formerly CGTextures.com). I also created this diary and references txt file to make things easier for the future and will take at least one screenshot per session.
-
-Screenshots will be saved in format "ddmmyy-(screenshot number)". For an example date of December 4th it would be "041223-1".
-To save time, any assets downloaded will simply have their file name, date, and download location (URL) in the references.txt file, which is located in the same location as this diary.txt file.
-Diary entries and references will be written as "dd/mm/yy - (location)" with "location" either being "Home" or "Session" which are both self-explanatory.
-
-I also skimmed through videos provided this session, much like last session. This time I actually was able to learn something new with the videos - mainly reflective properties through reflection probes. That was nice to learn!
-
-Inquired about next steps with Beth and where to go with the little information revealed in the brief. This appears to be a learning time for Unity which I'm already familiar with and so I'm wishing to get a head start. I also inquired about Probuilder and from what information I recieved, probuilder is probably not allowed. I did get good advicee top start working on environmental code and player code, however, as the project is based around interactivity.
-
-I went home half an hour early as I had little to do in the provided time frame left and had work later.
+Formatting example:
+__________________________
+ dd/mm/yy - Session/Extra
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Some writing will go here.
+I will be describing what I've done!
 
 
-########################
-## 01/12/23 - Session ##
-########################
-I opened Unity and then just watched the videos. I tried to recreate the videos but faced a fatal roadblock when attempting to modify the assets. Following the tutorial would just crash my entire project, every time, without fail. Tom had a look at the project and tried
-A. Not using GitHub while editing
-and
-B. Saving changes without assets being in the scene
-which for some reason fixed it, and we're not sure why or which one exactly was the problem (though I suspect it would be B. that's the problem as GitHub should only theoretically be reading files, not writing them.
-I then followed the rest of the tutorial and got the third person character imported into the scene.
+--------------------------------------------------------------------------------
 
-I imported a Joe from Mixamo as my new character, and applied them to the newly imported PlayerArmature from the free Unity Third Person Controller package.
-I also set up a basic scene and added a ball with bouncy PhysicsMaterial and some ramps to test the physics and called it a day a hour and 15 minutes early.
+____________________
+ 02/02/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Here I started to brainstorm ideas for what I wanted my interactive environment to be. I decided to use the old project folder for convenience.
 
-########################
-## 08/12/23 - Session ##
-########################
-After watching the videos and learning about how to use C# (which I already know a decent amount of) and needing to make an entirely new project to do so, I decided to catch up on other assignments that I'm behind on.
+My first ideas for the game are:
+ • Porch Pirate
+ • Underwater Pirates
+
+We're required to create these models:
+ • Pirate theme
+ • A drinking vessel
+ • A box that can open/close
+ • A fruit
+
+I also think it would be cool to have a Pirate HQ because that would be really funny.
+
+So in the end, I decided to go with the Porch Pirates idea since that was creative and people seemed to like it.
+
+I took some textures from the internet to use. I made a road using quads of Asphalt, and imported the player controller into a new scene. I also started modeling the fruit, which I chose to be a pear. The pear turned out great. I almost lost the pear actually, but I saved it by using my quick wit and intelligent thinking. I also downloaded a free pear seamless texture, the seemingly only one that exists on the internet. And also, took a random wood texture and compressed it so small that I could pass it off as my own work. Because I'm so cool, I didn't though and still cited it.
