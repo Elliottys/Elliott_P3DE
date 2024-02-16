@@ -8,11 +8,17 @@ __________________________
 [Download] File_Name = URL
 
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 ____________________
  02/02/24 - Session
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [Download] asphalt_04 = https://polyhaven.com/a/asphalt_04
-[Download] peary https://archivetextures.net/?a=download&id=84368
-[Download] stemy https://www.pexels.com/photo/brown-parquet-172286/
+[Download] peary = https://archivetextures.net/?a=download&id=84368
+[Download] stemy = https://www.pexels.com/photo/brown-parquet-172286/
+
+____________________
+ 16/02/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[Download] Brick_House = https://assetstore.unity.com/packages/3d/environments/urban/brick-house-74214
+[Download] Particle_Pack = https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325

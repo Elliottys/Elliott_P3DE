@@ -8,7 +8,7 @@ Some writing will go here.
 I will be describing what I've done!
 
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 ____________________
  02/02/24 - Session
@@ -30,3 +30,18 @@ I also think it would be cool to have a Pirate HQ because that would be really f
 So in the end, I decided to go with the Porch Pirates idea since that was creative and people seemed to like it.
 
 I took some textures from the internet to use. I made a road using quads of Asphalt, and imported the player controller into a new scene. I also started modeling the fruit, which I chose to be a pear. The pear turned out great. I almost lost the pear actually, but I saved it by using my quick wit and intelligent thinking. I also downloaded a free pear seamless texture, the seemingly only one that exists on the internet. And also, took a random wood texture and compressed it so small that I could pass it off as my own work. Because I'm so cool, I didn't though and still cited it.
+
+____________________
+ 16/02/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Imported a house model and a bundle of particle effects to give smoke to the chimney of the house model. I was given an idea to use WindZones to make the smoke more realistic, in that it has random wind momentum applied.
+I tried creating my own smoke effect but struggled to get the flipbook system  to work so I used the template smoke particle given by the bundle of particle effects and modified it to fit my needs.
+Then I created a new sidewalk and looked for textures to use for that, so I imported PavingStone-01 for the sidewalk.
+Cloned the houses to be side by side, looked really cool but then I realised I should prefab it so I created a new folder for prefabs.
+
+I started creating a basic environment cloning out the road 
+I saw some errors so I just... commented out the scripts with the errors, BIG BRAIN!
+Added some fog to mask the "endless" road.
+Created a new prefab called "Teleporters" including TeleporterA and TeleporterB which have options to link between. My first piece of code.
+
+Changing the step height of the player so that they can climb up stairs.
