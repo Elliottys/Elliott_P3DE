@@ -40,8 +40,21 @@ Then I created a new sidewalk and looked for textures to use for that, so I impo
 Cloned the houses to be side by side, looked really cool but then I realised I should prefab it so I created a new folder for prefabs.
 
 I started creating a basic environment cloning out the road 
-I saw some errors so I just... commented out the scripts with the errors, BIG BRAIN!
+I saw some errors so I just... commented out the scripts with the errors because I'm so smart.
 Added some fog to mask the "endless" road.
 Created a new prefab called "Teleporters" including TeleporterA and TeleporterB which have options to link between. My first piece of code.
 
 Changing the step height of the player so that they can climb up stairs.
+
+____________________
+ 23/02/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+I decided to limit the scene a bit and start work on the package prop. I was originally going to go for a cartoon 3D package inspired by the game Toontown Rewritten's package 3D model but I decided against this one due to the fact it would be difficult to animate it.
+I am struggling to decide what to choose, maybe an amazon package due to the simplicity? But a more complex idea would be better.
+
+
+Eventually I ended up modeling a coffee cup as my drinking vessel, with plans to make it interactable so you can drink the liquid. Side note: I should make some more interesting fruit to get higher marks.
+
+My models import with a small scale and I need to figure out how to fix that. I did finish my coffee cup model and added a steam effect to the prop.
+
+Finally, it was time to add a skybox to my scene and I found a nice (probably overused by our class) set of skyboxes free on the Unity Asset Store. I used FS013_Sunrise here.

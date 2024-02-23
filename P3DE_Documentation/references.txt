@@ -4,8 +4,9 @@ Formatting example:
 __________________________
  dd/mm/yy - Session/Extra
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[Original] File_Name = URL
-[Download] File_Name = URL
+[Reference] ???
+[Original]  File_Name = URL
+[Download]  File_Name = URL
 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -13,12 +14,19 @@ __________________________
 ____________________
  02/02/24 - Session
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[Download] asphalt_04 = https://polyhaven.com/a/asphalt_04
-[Download] peary = https://archivetextures.net/?a=download&id=84368
-[Download] stemy = https://www.pexels.com/photo/brown-parquet-172286/
+[Download]  asphalt_04 = https://polyhaven.com/a/asphalt_04
+[Download]  peary = https://archivetextures.net/?a=download&id=84368
+[Download]  stemy = https://www.pexels.com/photo/brown-parquet-172286/
 
 ____________________
  16/02/24 - Session
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[Download] Brick_House = https://assetstore.unity.com/packages/3d/environments/urban/brick-house-74214
-[Download] Particle_Pack = https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325
+[Download]  Brick_House = https://assetstore.unity.com/packages/3d/environments/urban/brick-house-74214
+[Download]  Particle_Pack = https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325
+
+____________________
+ 23/02/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[Reference] For my 3D package box:  Toontown Rewritten package prop. I eventually decided against this due to lack of ability to animate open/closing. - https://i.ytimg.com/vi/u9Nujx139J4/hqdefault.jpg 
+[Reference] For my drinking vessel: Coffee cup - https://upload.wikimedia.org/wikipedia/commons/0/05/A_time_for_a_cup_of_coffee.jpg
+[Download]  Fantasy_Skybox_FREE = https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
