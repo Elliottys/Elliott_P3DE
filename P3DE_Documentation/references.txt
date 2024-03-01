@@ -30,3 +30,9 @@ ____________________
 [Reference] For my 3D package box:  Toontown Rewritten package prop. I eventually decided against this due to lack of ability to animate open/closing. - https://i.ytimg.com/vi/u9Nujx139J4/hqdefault.jpg 
 [Reference] For my drinking vessel: Coffee cup - https://upload.wikimedia.org/wikipedia/commons/0/05/A_time_for_a_cup_of_coffee.jpg
 [Download]  Fantasy_Skybox_FREE = https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+
+____________________
+ 01/03/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[Download]  Porcelain001 = https://ambientcg.com/view?id=Porcelain001
+[Download]  SurfaceImperfections007 = https://ambientcg.com/view?id=SurfaceImperfections007

@@ -58,3 +58,14 @@ Eventually I ended up modeling a coffee cup as my drinking vessel, with plans to
 My models import with a small scale and I need to figure out how to fix that. I did finish my coffee cup model and added a steam effect to the prop.
 
 Finally, it was time to add a skybox to my scene and I found a nice (probably overused by our class) set of skyboxes free on the Unity Asset Store. I used FS013_Sunrise here.
+
+____________________
+ 01/03/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+I started work on my Coffee Cup drinking vessel to make it easier to animate in Unity, using the ctrl+t method to make sure the size of the coffee cup is accurate. I also applied some new textures.
+
+I found out that I was missing a plugin in order to use enhanced textures for my model - and I was also advised to use ProBuilder (finally!) for my 3D worlds, which i'm happy to oblige, even if it means restarting my world.
+
+I started creating a new tunnel which will be the spawning point, it will go off into darkness where eventually you'll be met with an invisible wall mid-darkness (so you can't see yourself hit it unless your moonwalking)
+The road will lead to the playable area, a small street of buildings and maybe a park area.
+And that road will turn the corner into what I call "Troll Road" which is an infinite road where after you give up and turn around, you realise you haven't moved that far.
