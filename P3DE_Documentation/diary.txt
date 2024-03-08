@@ -69,3 +69,8 @@ I found out that I was missing a plugin in order to use enhanced textures for my
 I started creating a new tunnel which will be the spawning point, it will go off into darkness where eventually you'll be met with an invisible wall mid-darkness (so you can't see yourself hit it unless your moonwalking)
 The road will lead to the playable area, a small street of buildings and maybe a park area.
 And that road will turn the corner into what I call "Troll Road" which is an infinite road where after you give up and turn around, you realise you haven't moved that far.
+
+____________________
+ 08/03/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+The tunnel was made a bit longer as I struggled to make a cardboard box and dark tunnel. I decided to move on directly to my other (due very soon and very incomplete) GiC++ project.
