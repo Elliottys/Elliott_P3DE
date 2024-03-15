@@ -74,3 +74,13 @@ ____________________
  08/03/24 - Session
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 The tunnel was made a bit longer as I struggled to make a cardboard box and dark tunnel. I decided to move on directly to my other (due very soon and very incomplete) GiC++ project.
+
+____________________
+ 15/03/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Gave up modelling box and decided to expand my scene a bit, I downloaded a bunch of textures from https://assetstore.unity.com/packages/2d/textures-materials/world-materials-free-150182 and didn't use it then i
+https://assetstore.unity.com/packages/2d/textures-materials/floors/floor-materials-pack-v-1-140435
+then I used https://assetstore.unity.com/packages/2d/textures-materials/textures-free-122421
+started animating the coffee cup
+finished animating the coffee cup
+expanded map to have the valley, and it kinda looks like a half-life map now which is funny.

@@ -36,3 +36,9 @@ ____________________
 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [Download]  Porcelain001 = https://ambientcg.com/view?id=Porcelain001
 [Download]  SurfaceImperfections007 = https://ambientcg.com/view?id=SurfaceImperfections007
+
+____________________
+ 15/03/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[Download]  https://assetstore.unity.com/packages/2d/textures-materials/world-materials-free-150182 - unused
+[Download]  https://assetstore.unity.com/packages/2d/textures-materials/floors/floor-materials-pack-v-1-140435
