@@ -84,3 +84,11 @@ then I used https://assetstore.unity.com/packages/2d/textures-materials/textures
 started animating the coffee cup
 finished animating the coffee cup
 expanded map to have the valley, and it kinda looks like a half-life map now which is funny.
+
+____________________
+ 22/03/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+I fixed the animation offset with the cup so it can now be played wherever you want in the map, by just moving and rotating the empty parent. Also added a skybox to my probuilder map.
+I am making my cardboard box and finished my cardboard box mostly
+
+maybe make a pumpkin fruit in the future for halloween themed houses
