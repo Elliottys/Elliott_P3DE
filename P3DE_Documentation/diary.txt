@@ -92,3 +92,11 @@ I fixed the animation offset with the cup so it can now be played wherever you w
 I am making my cardboard box and finished my cardboard box mostly
 
 maybe make a pumpkin fruit in the future for halloween themed houses
+
+____________________
+ 19/04/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+My goal is to add a pirate hat to the player, and add interactive animation triggers and houses
+
+clean up documentation, make a moodboard, create houses, add box-holding, add spawn house, find a pirate hat maybe
+
