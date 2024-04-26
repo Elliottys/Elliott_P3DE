@@ -100,3 +100,8 @@ My goal is to add a pirate hat to the player, and add interactive animation trig
 
 clean up documentation, make a moodboard, create houses, add box-holding, add spawn house, find a pirate hat maybe
 
+____________________
+ 26/04/24 - Session
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+I was instructed on how I should add post processing effects to my game and I made the tunnel with a darkness effect with a surface object
+I updated the level slightly and imported a new unity package "TextMeshPro" for creating the UI when you collect a box

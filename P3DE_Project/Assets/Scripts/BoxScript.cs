@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class BoxScript : MonoBehaviour
@@ -8,6 +6,9 @@ public class BoxScript : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        anim.Play("opening_anim");
+        if (other.tag == "Player")
+        {
+            anim.Play("opening_anim");
+        }
     }
 }
