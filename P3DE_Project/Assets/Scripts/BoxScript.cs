@@ -2,13 +2,20 @@ using UnityEngine;
 
 public class BoxScript : MonoBehaviour
 {
-    public Animator anim;
+	public int Identity;
+    public Animator Animator;
+	public GameObject IdleBox;
+	public GameObject StolenBox;
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.tag == "Player")
-        {
-            anim.Play("opening_anim");
+        {	
+			PlayerStats script = other.GetComponent<PlayerStats>();
+            IdleBox.SetActive(false);
+            StolenBox.SetActive(false);
+			script.CollectedBoxes[Identity] = true;
+			script.UpdateStats();
         }
     }
 }
