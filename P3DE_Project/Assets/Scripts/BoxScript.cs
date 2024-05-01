@@ -11,11 +11,14 @@ public class BoxScript : MonoBehaviour
     {
         if (other.tag == "Player")
         {	
-			PlayerStats script = other.GetComponent<PlayerStats>();
-            IdleBox.SetActive(false);
-            StolenBox.SetActive(false);
-			script.CollectedBoxes[Identity] = true;
-			script.UpdateStats();
+			if (IdleBox.activeSelf)
+			{
+				PlayerStats script = other.GetComponent<PlayerStats>();
+				IdleBox.SetActive(false);
+				StolenBox.SetActive(false);
+				script.CollectedBoxes[Identity] = true;
+				script.UpdateStats();
+			}
         }
     }
 }
